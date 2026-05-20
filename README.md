@@ -72,6 +72,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -109,5 +110,6 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
