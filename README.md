@@ -28,6 +28,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
@@ -109,6 +110,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 ## Recursion
