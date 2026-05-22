@@ -46,6 +46,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
@@ -71,6 +72,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
