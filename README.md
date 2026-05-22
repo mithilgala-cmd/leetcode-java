@@ -49,6 +49,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -105,6 +106,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
