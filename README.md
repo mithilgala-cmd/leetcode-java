@@ -43,6 +43,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 ## Array
@@ -54,6 +55,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -104,6 +106,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
