@@ -17,6 +17,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0160-intersection-of-two-linked-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -67,6 +68,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
