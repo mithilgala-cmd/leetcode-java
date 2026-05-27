@@ -213,18 +213,21 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,4 +236,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
