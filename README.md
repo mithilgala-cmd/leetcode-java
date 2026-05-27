@@ -213,6 +213,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -221,6 +222,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -229,6 +231,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -245,4 +248,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
