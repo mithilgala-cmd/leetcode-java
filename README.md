@@ -127,6 +127,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -147,6 +148,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 ## Design
