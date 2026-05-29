@@ -71,6 +71,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
@@ -250,6 +251,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -288,6 +290,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0100-same-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -315,4 +318,12 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
