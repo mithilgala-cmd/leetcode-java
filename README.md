@@ -158,6 +158,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
