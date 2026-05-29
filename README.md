@@ -155,6 +155,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
@@ -168,6 +169,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0066-plus-one](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Sliding Window
@@ -368,4 +370,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
