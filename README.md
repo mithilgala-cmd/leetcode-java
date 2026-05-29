@@ -64,6 +64,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -329,4 +330,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
