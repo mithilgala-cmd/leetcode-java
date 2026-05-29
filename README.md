@@ -263,6 +263,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,4 +348,5 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1791-find-center-of-star-graph/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
