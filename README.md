@@ -344,4 +344,5 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
+| [1791-find-center-of-star-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
