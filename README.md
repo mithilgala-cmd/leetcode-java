@@ -75,6 +75,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
@@ -160,6 +161,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
