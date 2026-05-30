@@ -255,6 +255,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -270,6 +271,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -288,6 +290,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -315,6 +318,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
