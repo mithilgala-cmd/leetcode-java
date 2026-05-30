@@ -182,6 +182,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0069-sqrtx](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Sliding Window
@@ -244,6 +245,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
@@ -410,6 +412,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
