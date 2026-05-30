@@ -102,6 +102,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -245,6 +246,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
 ## Doubly-Linked List
