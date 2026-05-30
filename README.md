@@ -105,6 +105,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
@@ -204,6 +205,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,4 +407,12 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
