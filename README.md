@@ -187,6 +187,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
+| [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Sliding Window
@@ -239,6 +240,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0002-add-two-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
+| [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
