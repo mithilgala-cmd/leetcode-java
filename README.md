@@ -197,6 +197,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Sliding Window
@@ -263,6 +264,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
