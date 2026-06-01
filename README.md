@@ -222,6 +222,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
+| [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
