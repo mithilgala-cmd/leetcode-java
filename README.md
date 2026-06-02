@@ -105,6 +105,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0503-next-greater-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -145,6 +146,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
