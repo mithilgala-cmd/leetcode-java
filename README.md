@@ -123,6 +123,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
@@ -158,6 +159,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3169-count-days-without-meetings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3169-count-days-without-meetings/) | Medium |
@@ -185,6 +187,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -303,6 +306,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
