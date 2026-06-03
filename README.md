@@ -54,6 +54,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
@@ -135,6 +136,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
