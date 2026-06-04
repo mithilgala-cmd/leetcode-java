@@ -233,6 +233,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2544-alternating-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2544-alternating-digit-sum/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,4 +516,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
