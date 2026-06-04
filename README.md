@@ -95,6 +95,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0066-plus-one](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -367,6 +368,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
@@ -405,6 +407,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0101-symmetric-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
@@ -428,6 +431,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -450,6 +454,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
