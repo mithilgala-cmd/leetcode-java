@@ -275,6 +275,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2544-alternating-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2544-alternating-digit-sum/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2843-count-symmetric-integers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
@@ -552,5 +553,6 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2843-count-symmetric-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2843-count-symmetric-integers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
