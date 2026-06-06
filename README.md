@@ -407,6 +407,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +429,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +448,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
