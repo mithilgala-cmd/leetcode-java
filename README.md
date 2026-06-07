@@ -164,6 +164,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
+| [3131-find-the-integer-added-to-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 | [3169-count-days-without-meetings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3169-count-days-without-meetings/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
