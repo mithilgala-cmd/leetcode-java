@@ -60,6 +60,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
@@ -245,6 +246,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
