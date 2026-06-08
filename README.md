@@ -54,6 +54,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
@@ -372,6 +373,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
