@@ -29,6 +29,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -152,6 +153,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
@@ -376,6 +378,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
