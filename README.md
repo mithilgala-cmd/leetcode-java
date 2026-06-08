@@ -51,6 +51,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
@@ -234,6 +235,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
+| [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
