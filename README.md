@@ -56,6 +56,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1108-defanging-an-ip-address/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
@@ -88,6 +89,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
@@ -514,6 +516,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
