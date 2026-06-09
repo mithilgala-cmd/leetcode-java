@@ -80,6 +80,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3340-check-balanced-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3794-reverse-string-prefix/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -262,6 +263,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -521,6 +523,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
