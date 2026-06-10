@@ -80,6 +80,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3340-check-balanced-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3794-reverse-string-prefix/) | Easy |
 ## Greedy
@@ -432,6 +433,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
