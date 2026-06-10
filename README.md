@@ -164,6 +164,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -381,6 +382,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
@@ -621,6 +623,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
