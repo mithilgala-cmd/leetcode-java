@@ -81,6 +81,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3340-check-balanced-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3794-reverse-string-prefix/) | Easy |
@@ -342,6 +343,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3232-find-if-digit-game-can-be-won](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
@@ -444,6 +446,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 ## Doubly-Linked List
@@ -633,12 +636,14 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
