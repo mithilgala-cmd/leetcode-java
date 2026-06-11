@@ -83,6 +83,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
+| [3110-score-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
