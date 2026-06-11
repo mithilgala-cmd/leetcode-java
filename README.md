@@ -28,6 +28,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -58,6 +59,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
