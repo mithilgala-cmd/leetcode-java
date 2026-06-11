@@ -212,6 +212,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
