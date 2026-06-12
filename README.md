@@ -359,6 +359,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2651-calculate-delayed-arrival-time/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2843-count-symmetric-integers/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
