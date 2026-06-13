@@ -352,6 +352,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1837-sum-of-digits-in-base-k/) | Easy |
@@ -678,6 +679,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
