@@ -103,6 +103,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
@@ -350,6 +351,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1837-sum-of-digits-in-base-k/) | Easy |
