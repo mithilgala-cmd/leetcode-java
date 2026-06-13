@@ -92,6 +92,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3498-reverse-degree-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3794-reverse-string-prefix/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3689-maximum-total-subarray-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -486,6 +488,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
