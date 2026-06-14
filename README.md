@@ -32,6 +32,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
@@ -313,6 +314,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0876-middle-of-the-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -447,6 +449,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Recursion
