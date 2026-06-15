@@ -65,6 +65,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1332-remove-palindromic-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
@@ -182,6 +183,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1470-shuffle-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
