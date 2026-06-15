@@ -479,6 +479,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -490,6 +491,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1389-create-target-array-in-the-given-order/) | Easy |
+| [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
@@ -616,6 +618,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
