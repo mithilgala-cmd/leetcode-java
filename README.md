@@ -83,6 +83,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1773-count-items-matching-a-rule](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1816-truncate-sentence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1816-truncate-sentence/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
@@ -216,6 +217,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1773-count-items-matching-a-rule/) | Easy |
+| [1816-truncate-sentence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1816-truncate-sentence/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
