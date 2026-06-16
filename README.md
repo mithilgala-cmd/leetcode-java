@@ -194,6 +194,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -414,6 +415,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0643-maximum-average-subarray-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
