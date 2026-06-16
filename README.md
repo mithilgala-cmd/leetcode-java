@@ -6,6 +6,10 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ![Problems](https://img.shields.io/badge/Problems-245-green)
 ![Goal](https://img.shields.io/badge/Goal-500-orange)
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mithilgala?theme=dark&font=baloo&ext=contest)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
