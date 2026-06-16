@@ -82,6 +82,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1768-merge-strings-alternately](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
@@ -396,6 +397,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1837-sum-of-digits-in-base-k/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
