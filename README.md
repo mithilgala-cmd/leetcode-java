@@ -67,6 +67,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
