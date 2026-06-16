@@ -226,6 +226,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2678-number-of-senior-citizens/) | Easy |
@@ -320,6 +321,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -398,6 +400,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2485-find-the-pivot-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2544-alternating-digit-sum/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2651-calculate-delayed-arrival-time/) | Easy |
@@ -527,6 +530,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
+| [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
