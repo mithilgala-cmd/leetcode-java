@@ -67,6 +67,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
@@ -195,6 +196,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
