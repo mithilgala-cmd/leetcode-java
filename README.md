@@ -85,6 +85,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1816-truncate-sentence/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
+| [1844-replace-all-digits-with-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1844-replace-all-digits-with-characters/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
