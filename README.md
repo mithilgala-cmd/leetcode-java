@@ -91,6 +91,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
@@ -130,6 +131,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
