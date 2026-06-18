@@ -96,6 +96,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
@@ -241,6 +242,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
@@ -321,6 +323,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
