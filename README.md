@@ -3,7 +3,6 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![DSA](https://img.shields.io/badge/Focus-DSA-blue)
-![Problems](https://img.shields.io/badge/Problems-245-green)
 ![Goal](https://img.shields.io/badge/Goal-500-orange)
 
 ## LeetCode Stats
