@@ -611,6 +611,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -661,6 +662,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
