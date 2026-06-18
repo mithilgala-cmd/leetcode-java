@@ -427,6 +427,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2469-convert-the-temperature/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -793,6 +794,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Binary Indexed Tree
@@ -814,6 +816,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
+| [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2843-count-symmetric-integers/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
