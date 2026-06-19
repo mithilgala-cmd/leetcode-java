@@ -46,6 +46,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3794-reverse-string-prefix/) | Easy |
@@ -103,6 +104,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
@@ -141,6 +143,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
