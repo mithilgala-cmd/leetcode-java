@@ -234,6 +234,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1773-count-items-matching-a-rule](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1816-truncate-sentence/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -315,6 +316,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -430,6 +432,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1837-sum-of-digits-in-base-k/) | Easy |
+| [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [2119-a-number-after-a-double-reversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2169-count-operations-to-obtain-zero/) | Easy |
