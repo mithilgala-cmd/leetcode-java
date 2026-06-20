@@ -18,6 +18,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -377,6 +378,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
