@@ -14,6 +14,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -55,6 +56,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
@@ -388,6 +390,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
