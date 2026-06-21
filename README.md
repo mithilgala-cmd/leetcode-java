@@ -22,6 +22,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
@@ -168,6 +169,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0016-3sum-closest](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
