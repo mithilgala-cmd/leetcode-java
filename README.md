@@ -60,6 +60,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
@@ -401,6 +402,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
@@ -553,6 +555,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
