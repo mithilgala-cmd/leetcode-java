@@ -141,6 +141,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -238,6 +239,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1816-truncate-sentence/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
@@ -321,6 +323,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -705,6 +708,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
