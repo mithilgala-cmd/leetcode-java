@@ -112,6 +112,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2315-count-asterisks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2315-count-asterisks/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -515,6 +516,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
