@@ -87,6 +87,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1678-goal-parser-interpretation/) | Easy |
+| [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -375,6 +376,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1189-maximum-number-of-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -501,6 +503,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
+| [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
@@ -765,6 +768,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -823,6 +827,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1720-decode-xored-array/) | Easy |
+| [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
