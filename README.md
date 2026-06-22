@@ -282,6 +282,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2678-number-of-senior-citizens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -517,6 +518,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
