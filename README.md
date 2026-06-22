@@ -109,6 +109,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2315-count-asterisks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2315-count-asterisks/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
@@ -466,6 +467,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2180-count-integers-with-even-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2469-convert-the-temperature/) | Easy |
@@ -512,6 +514,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
