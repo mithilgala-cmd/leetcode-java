@@ -294,6 +294,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3151-special-array-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
@@ -526,6 +527,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -849,6 +851,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1720-decode-xored-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1720-decode-xored-array/) | Easy |
 | [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
