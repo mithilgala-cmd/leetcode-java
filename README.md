@@ -294,6 +294,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
+| [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
@@ -353,6 +354,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3169-count-days-without-meetings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3169-count-days-without-meetings/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
@@ -637,6 +639,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2810-faulty-keyboard](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2810-faulty-keyboard/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
+| [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
@@ -802,6 +805,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
