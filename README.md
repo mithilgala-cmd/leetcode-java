@@ -298,6 +298,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3131-find-the-integer-added-to-array-i/) | Easy |
