@@ -243,6 +243,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1720-decode-xored-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1720-decode-xored-array/) | Easy |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
@@ -827,6 +828,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
