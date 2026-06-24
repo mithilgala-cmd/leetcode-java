@@ -461,6 +461,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0168-excel-sheet-column-title](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
@@ -608,6 +609,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -867,6 +869,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
