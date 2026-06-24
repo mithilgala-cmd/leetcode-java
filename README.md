@@ -811,6 +811,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0004-median-of-two-sorted-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 ## Heap (Priority Queue)
@@ -869,6 +870,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
