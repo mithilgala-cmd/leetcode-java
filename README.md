@@ -469,6 +469,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0263-ugly-number/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
