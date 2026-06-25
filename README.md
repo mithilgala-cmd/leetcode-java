@@ -65,6 +65,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0012-integer-to-roman](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
@@ -382,6 +383,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -867,6 +869,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
