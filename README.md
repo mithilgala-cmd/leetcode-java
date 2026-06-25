@@ -67,6 +67,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0014-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
@@ -441,6 +442,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
@@ -870,6 +872,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
