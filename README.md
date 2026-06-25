@@ -200,6 +200,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0136-single-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
@@ -338,6 +339,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0015-3sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -390,6 +392,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -780,6 +783,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
@@ -826,6 +830,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
