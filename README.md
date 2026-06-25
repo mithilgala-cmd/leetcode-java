@@ -196,6 +196,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
@@ -885,6 +886,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
