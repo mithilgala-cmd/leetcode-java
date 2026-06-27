@@ -308,6 +308,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
@@ -421,6 +422,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -966,6 +968,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2778-sum-of-squares-of-special-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2843-count-symmetric-integers/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
