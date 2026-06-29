@@ -61,6 +61,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
