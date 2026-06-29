@@ -18,6 +18,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
@@ -185,6 +186,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0014-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0031-next-permutation/) | Medium |
@@ -345,6 +347,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0015-3sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
