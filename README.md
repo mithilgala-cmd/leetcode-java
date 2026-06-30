@@ -78,6 +78,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0171-excel-sheet-column-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
@@ -745,6 +746,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -771,6 +773,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -799,6 +802,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -918,6 +922,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
+| [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
