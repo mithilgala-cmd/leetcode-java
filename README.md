@@ -77,6 +77,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0168-excel-sheet-column-title](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
@@ -352,6 +353,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -410,6 +412,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0205-isomorphic-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
