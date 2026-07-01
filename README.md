@@ -84,6 +84,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0205-isomorphic-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
+| [0290-word-pattern](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
@@ -430,6 +431,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0219-contains-duplicate-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
