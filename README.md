@@ -533,6 +533,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0263-ugly-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0319-bulb-switcher/) | Medium |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1051,6 +1052,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0319-bulb-switcher/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
