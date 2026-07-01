@@ -25,6 +25,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
@@ -457,6 +458,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0023-merge-k-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
