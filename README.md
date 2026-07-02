@@ -506,6 +506,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0152-maximum-product-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
@@ -545,6 +546,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1033-moving-stones-until-consecutive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1033-moving-stones-until-consecutive/) | Medium |
+| [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -1067,6 +1069,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1033-moving-stones-until-consecutive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1033-moving-stones-until-consecutive/) | Medium |
+| [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1077,4 +1080,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 <!---LeetCode Topics End-->
