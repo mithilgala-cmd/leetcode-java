@@ -544,6 +544,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
+| [1033-moving-stones-until-consecutive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1033-moving-stones-until-consecutive/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -1065,6 +1066,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0319-bulb-switcher](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0319-bulb-switcher/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
+| [1033-moving-stones-until-consecutive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1033-moving-stones-until-consecutive/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
