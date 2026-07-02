@@ -310,6 +310,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -1002,6 +1003,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1720-decode-xored-array/) | Easy |
 | [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
@@ -1076,6 +1078,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2396-strictly-palindromic-number/) | Medium |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
