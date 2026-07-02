@@ -242,6 +242,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0643-maximum-average-subarray-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
@@ -538,6 +539,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -985,6 +987,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0222-count-complete-tree-nodes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0268-missing-number/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
@@ -1058,10 +1061,12 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0319-bulb-switcher/) | Medium |
+| [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0292-nim-game/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
