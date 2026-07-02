@@ -53,6 +53,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -571,6 +572,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2469-convert-the-temperature/) | Easy |
@@ -1073,6 +1075,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1033-moving-stones-until-consecutive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1033-moving-stones-until-consecutive/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2396-strictly-palindromic-number/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
