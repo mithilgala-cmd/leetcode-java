@@ -182,6 +182,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -523,6 +524,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+| [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -596,6 +598,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2652-sum-multiples/) | Easy |
+| [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2843-count-symmetric-integers/) | Easy |
@@ -1102,6 +1105,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2568-minimum-impossible-or](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2568-minimum-impossible-or/) | Medium |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
+| [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
