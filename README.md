@@ -367,6 +367,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3637-trionic-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3637-trionic-array-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
@@ -1038,6 +1039,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3674-minimum-operations-to-equalize-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1116,6 +1118,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2749-minimum-operations-to-make-the-integer-zero/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+| [3674-minimum-operations-to-equalize-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
