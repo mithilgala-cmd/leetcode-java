@@ -1027,6 +1027,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2568-minimum-impossible-or](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2568-minimum-impossible-or/) | Medium |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2749-minimum-operations-to-make-the-integer-zero/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
@@ -1075,6 +1076,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2749-minimum-operations-to-make-the-integer-zero/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2843-count-symmetric-integers/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
@@ -1106,6 +1108,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2568-minimum-impossible-or](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2568-minimum-impossible-or/) | Medium |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2749-minimum-operations-to-make-the-integer-zero/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
