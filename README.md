@@ -373,6 +373,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
@@ -624,6 +625,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1119,6 +1121,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1126,6 +1129,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
+| [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
