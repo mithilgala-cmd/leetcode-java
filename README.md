@@ -207,6 +207,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
@@ -1006,6 +1007,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 ## Graph Theory
