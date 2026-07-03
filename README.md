@@ -205,6 +205,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0031-next-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
@@ -439,6 +440,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0012-integer-to-roman](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -980,6 +982,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
