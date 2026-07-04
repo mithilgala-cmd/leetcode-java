@@ -835,6 +835,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -863,6 +864,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -890,6 +892,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2236-root-equals-sum-of-children/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -941,6 +944,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
