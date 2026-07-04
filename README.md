@@ -207,6 +207,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0027-remove-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0039-combination-sum/) | Medium |
@@ -666,6 +667,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
