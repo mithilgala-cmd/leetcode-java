@@ -226,6 +226,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0066-plus-one](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
@@ -1043,6 +1044,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0039-combination-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0089-gray-code](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1060,6 +1062,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0029-divide-two-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
