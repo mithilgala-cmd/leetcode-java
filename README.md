@@ -85,6 +85,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0168-excel-sheet-column-title](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0290-word-pattern/) | Easy |
@@ -574,6 +575,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0171-excel-sheet-column-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0223-rectangle-area](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0223-rectangle-area/) | Medium |
+| [0224-basic-calculator](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0263-ugly-number/) | Easy |
@@ -727,6 +729,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0224-basic-calculator](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
@@ -753,6 +756,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0025-reverse-nodes-in-k-group](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
