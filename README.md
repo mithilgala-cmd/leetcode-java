@@ -107,6 +107,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1678-goal-parser-interpretation/) | Easy |
@@ -177,6 +178,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -286,6 +288,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -542,6 +545,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
