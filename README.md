@@ -90,6 +90,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0290-word-pattern](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
@@ -459,6 +460,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
@@ -898,6 +900,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
