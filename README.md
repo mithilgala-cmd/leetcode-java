@@ -77,6 +77,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
@@ -566,6 +567,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0012-integer-to-roman](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0066-plus-one/) | Easy |
@@ -774,6 +776,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
