@@ -32,6 +32,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
@@ -239,6 +240,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
@@ -579,6 +581,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0089-gray-code](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0089-gray-code/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
+| [0189-rotate-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0202-happy-number/) | Easy |
 | [0223-rectangle-area](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0223-rectangle-area/) | Medium |
 | [0224-basic-calculator](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
