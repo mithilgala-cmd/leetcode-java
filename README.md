@@ -84,6 +84,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0097-interleaving-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
@@ -462,6 +463,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0041-first-missing-positive/) | Hard |
+| [0127-word-ladder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -970,6 +972,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
