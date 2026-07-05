@@ -273,6 +273,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1313-decompress-run-length-encoded-list/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -545,6 +546,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -1033,6 +1035,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
