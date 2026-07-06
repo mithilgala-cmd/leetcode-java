@@ -84,6 +84,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
@@ -181,6 +182,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
@@ -558,6 +560,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0010-regular-expression-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
@@ -791,6 +794,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0021-merge-two-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0224-basic-calculator/) | Hard |
