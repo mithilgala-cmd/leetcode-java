@@ -50,6 +50,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1332-remove-palindromic-subsequences/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1768-merge-strings-alternately/) | Easy |
@@ -303,6 +304,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
@@ -438,6 +440,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -727,6 +730,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
@@ -742,6 +746,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
