@@ -184,6 +184,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
@@ -245,6 +246,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0135-candy](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
