@@ -686,6 +686,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
