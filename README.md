@@ -120,6 +120,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1678-goal-parser-interpretation/) | Easy |
@@ -316,6 +317,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
@@ -788,6 +790,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
