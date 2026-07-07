@@ -261,6 +261,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0228-summary-ranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
+| [0312-burst-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0312-burst-balloons/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -574,6 +575,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
+| [0312-burst-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0312-burst-balloons/) | Hard |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
