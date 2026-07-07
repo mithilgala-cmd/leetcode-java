@@ -352,6 +352,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
+| [2365-task-scheduler-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2365-task-scheduler-ii/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
@@ -516,6 +517,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2365-task-scheduler-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2365-task-scheduler-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
@@ -844,6 +846,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
+| [2365-task-scheduler-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2365-task-scheduler-ii/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2553-separate-the-digits-in-an-array/) | Easy |
