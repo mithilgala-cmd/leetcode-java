@@ -396,6 +396,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3151-special-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3151-special-array-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 | [3169-count-days-without-meetings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3169-count-days-without-meetings/) | Medium |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
@@ -863,6 +864,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
