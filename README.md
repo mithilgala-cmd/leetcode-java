@@ -286,6 +286,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0679-24-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0679-24-game/) | Hard |
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
@@ -642,6 +643,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0679-24-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0679-24-game/) | Hard |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
@@ -1137,6 +1139,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0089-gray-code](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
+| [0679-24-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0679-24-game/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
