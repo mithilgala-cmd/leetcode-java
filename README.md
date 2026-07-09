@@ -144,6 +144,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
@@ -859,6 +860,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
