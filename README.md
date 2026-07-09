@@ -485,6 +485,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -552,6 +553,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3889-mirror-frequency-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3889-mirror-frequency-distance/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1026,6 +1028,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3889-mirror-frequency-distance/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1233,6 +1236,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
