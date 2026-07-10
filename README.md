@@ -328,6 +328,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -988,6 +989,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1306-jump-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -1075,6 +1077,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1345-jump-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1345-jump-game-iv/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1131,6 +1134,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1150,6 +1154,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
