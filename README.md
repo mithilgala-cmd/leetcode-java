@@ -275,6 +275,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
@@ -606,6 +607,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0152-maximum-product-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0312-burst-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0312-burst-balloons/) | Hard |
+| [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -650,6 +652,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0292-nim-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0319-bulb-switcher/) | Medium |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
+| [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
 | [0477-total-hamming-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0477-total-hamming-distance/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
