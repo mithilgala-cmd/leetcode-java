@@ -435,6 +435,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -562,6 +563,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3668-restore-finishing-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3889-mirror-frequency-distance/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Linked List
