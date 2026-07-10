@@ -1192,6 +1192,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0231-power-of-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0477-total-hamming-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0477-total-hamming-distance/) | Medium |
+| [0693-binary-number-with-alternating-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0693-binary-number-with-alternating-bits/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
