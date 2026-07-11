@@ -196,6 +196,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
@@ -299,6 +300,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0905-sort-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
