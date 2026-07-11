@@ -240,6 +240,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0035-search-insert-position](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
@@ -1177,6 +1178,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0089-gray-code](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
