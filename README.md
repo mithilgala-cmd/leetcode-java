@@ -323,6 +323,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -695,6 +696,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1323-maximum-69-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
@@ -814,6 +816,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [1094-car-pooling](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1094-car-pooling/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -880,6 +883,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0155-min-stack](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 ## Simulation
@@ -1356,4 +1360,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
