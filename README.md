@@ -101,6 +101,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0299-bulls-and-cows/) | Medium |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
@@ -537,6 +538,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0242-valid-anagram](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -1053,6 +1055,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
+| [0299-bulls-and-cows](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
