@@ -156,6 +156,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2315-count-asterisks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2315-count-asterisks/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -560,6 +561,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2365-task-scheduler-ii/) | Medium |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
@@ -770,6 +772,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
