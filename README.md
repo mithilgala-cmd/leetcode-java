@@ -375,6 +375,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
@@ -487,6 +488,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2592-maximize-greatness-of-an-array/) | Medium |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
@@ -623,6 +625,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
