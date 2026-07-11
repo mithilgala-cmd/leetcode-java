@@ -420,6 +420,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3169-count-days-without-meetings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3169-count-days-without-meetings/) | Medium |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -569,6 +570,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3120-count-the-number-of-special-characters-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3146-permutation-difference-between-two-strings/) | Easy |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -819,6 +821,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2485-find-the-pivot-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
+| [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
