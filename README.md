@@ -680,6 +680,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
 | [0477-total-hamming-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0477-total-hamming-distance/) | Medium |
+| [0483-smallest-good-base](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0483-smallest-good-base/) | Hard |
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -799,6 +800,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
+| [0483-smallest-good-base](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0483-smallest-good-base/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
