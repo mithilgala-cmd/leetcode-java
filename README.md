@@ -275,6 +275,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0228-summary-ranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0312-burst-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0312-burst-balloons/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -894,6 +895,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0155-min-stack](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
@@ -1135,6 +1137,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0191-number-of-1-bits/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
 | [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
@@ -1286,10 +1289,12 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
