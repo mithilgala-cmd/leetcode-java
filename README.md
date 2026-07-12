@@ -204,6 +204,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -349,6 +350,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones/) | Hard |
 | [1720-decode-xored-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1720-decode-xored-array/) | Easy |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1725-number-of-rectangles-that-can-form-the-largest-square/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -763,6 +765,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones/) | Hard |
 | [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
@@ -823,6 +826,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1480-running-sum-of-1d-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
