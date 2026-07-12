@@ -369,6 +369,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2070-most-beautiful-item-for-each-query](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -497,6 +498,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2070-most-beautiful-item-for-each-query](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -813,6 +815,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2070-most-beautiful-item-for-each-query](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
