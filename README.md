@@ -1318,6 +1318,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1291-sequential-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2749-minimum-operations-to-make-the-integer-zero/) | Medium |
