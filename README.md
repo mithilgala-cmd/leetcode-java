@@ -107,6 +107,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0394-decode-string/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
@@ -555,6 +556,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0697-degree-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0697-degree-of-an-array/) | Easy |
@@ -769,6 +771,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
