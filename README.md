@@ -302,6 +302,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0697-degree-of-an-array/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0766-toeplitz-matrix/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0885-spiral-matrix-iii/) | Medium |
@@ -1214,6 +1215,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0064-minimum-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0885-spiral-matrix-iii/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
