@@ -766,6 +766,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -1307,6 +1308,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
