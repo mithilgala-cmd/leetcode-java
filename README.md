@@ -128,6 +128,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1592-rearrange-spaces-between-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1592-rearrange-spaces-between-words/) | Easy |
 | [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
