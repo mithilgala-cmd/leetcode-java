@@ -53,6 +53,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1332-remove-palindromic-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1332-remove-palindromic-subsequences/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -348,6 +349,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
@@ -830,6 +832,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -888,6 +891,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -987,6 +991,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0503-next-greater-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
