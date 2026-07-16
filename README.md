@@ -154,6 +154,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -219,6 +220,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2592-maximize-greatness-of-an-array/) | Medium |
@@ -586,6 +588,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2365-task-scheduler-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2365-task-scheduler-ii/) | Medium |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -1128,6 +1131,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
@@ -1198,6 +1202,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
