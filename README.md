@@ -71,6 +71,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3794-reverse-string-prefix/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +471,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -530,6 +532,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -782,6 +785,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -983,6 +987,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3614-process-string-with-special-operations-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1328,6 +1333,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
