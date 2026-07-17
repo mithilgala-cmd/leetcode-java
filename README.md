@@ -451,6 +451,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
@@ -611,6 +612,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
@@ -779,6 +781,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3270-find-the-key-of-the-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3270-find-the-key-of-the-numbers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -856,6 +859,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3620-network-recovery-pathways/) | Hard |
@@ -879,6 +883,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2574-left-and-right-sum-differences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1139,6 +1144,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1333,6 +1339,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0062-unique-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Number Theory
@@ -1343,6 +1350,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2413-smallest-even-multiple](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
