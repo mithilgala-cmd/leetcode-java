@@ -111,6 +111,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0387-first-unique-character-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
@@ -1046,6 +1047,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -1076,6 +1078,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1306-jump-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -1108,6 +1111,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0606-construct-string-from-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
