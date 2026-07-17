@@ -422,6 +422,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2763-sum-of-imbalance-numbers-of-all-subarrays/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -528,6 +529,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2592-maximize-greatness-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2592-maximize-greatness-of-an-array/) | Medium |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -600,6 +602,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2763-sum-of-imbalance-numbers-of-all-subarrays/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
