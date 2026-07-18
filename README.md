@@ -382,6 +382,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
+| [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -681,6 +682,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+| [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
@@ -1292,6 +1294,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0679-24-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0679-24-game/) | Hard |
+| [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1327,6 +1330,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1720-decode-xored-array/) | Easy |
 | [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
+| [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2568-minimum-impossible-or](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2568-minimum-impossible-or/) | Medium |
@@ -1462,4 +1466,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 <!---LeetCode Topics End-->
