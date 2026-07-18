@@ -459,6 +459,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
@@ -895,6 +896,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1004,6 +1006,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
