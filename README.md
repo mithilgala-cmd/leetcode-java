@@ -326,6 +326,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
@@ -860,6 +861,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0483-smallest-good-base](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0483-smallest-good-base/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
