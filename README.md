@@ -58,6 +58,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1768-merge-strings-alternately](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -403,6 +404,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -706,6 +708,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
@@ -780,6 +783,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2028-find-missing-observations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2028-find-missing-observations/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2119-a-number-after-a-double-reversal/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2169-count-operations-to-obtain-zero/) | Easy |
@@ -854,6 +858,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
