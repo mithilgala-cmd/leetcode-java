@@ -171,6 +171,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2678-number-of-senior-citizens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
 | [2810-faulty-keyboard](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2810-faulty-keyboard/) | Easy |
@@ -434,6 +435,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2706-buy-two-chocolates/) | Easy |
+| [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
@@ -628,6 +630,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2549-count-distinct-numbers-on-board/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
@@ -710,6 +713,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
+| [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -1175,6 +1179,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0014-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
+| [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
