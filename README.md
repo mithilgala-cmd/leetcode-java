@@ -210,6 +210,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
@@ -274,6 +275,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0040-combination-sum-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
@@ -695,6 +697,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
