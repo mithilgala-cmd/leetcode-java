@@ -184,6 +184,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2938-separate-black-and-white-balls](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3019-number-of-changing-keys/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -252,6 +253,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2938-separate-black-and-white-balls/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
@@ -581,6 +583,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3169-count-days-without-meetings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3169-count-days-without-meetings/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -659,6 +662,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -1230,6 +1234,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
