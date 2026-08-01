@@ -325,6 +325,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
 | [0477-total-hamming-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0506-relative-ranks/) | Easy |
@@ -728,6 +729,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0312-burst-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0312-burst-balloons/) | Hard |
 | [0338-counting-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
@@ -784,6 +786,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
 | [0477-total-hamming-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0477-total-hamming-distance/) | Medium |
 | [0483-smallest-good-base](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0483-smallest-good-base/) | Hard |
+| [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0492-construct-the-rectangle/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1017,6 +1020,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0234-palindrome-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -1540,6 +1544,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
