@@ -360,6 +360,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1094-car-pooling](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1094-car-pooling/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -559,6 +560,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0948-bag-of-tokens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1094-car-pooling](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1094-car-pooling/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1200-minimum-absolute-difference/) | Easy |
@@ -808,6 +810,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1033-moving-stones-until-consecutive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1033-moving-stones-until-consecutive/) | Medium |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1227-airplane-seat-assignment-probability/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -896,6 +899,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0424-longest-repeating-character-replacement](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
