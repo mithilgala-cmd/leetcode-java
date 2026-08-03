@@ -381,6 +381,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1389-create-target-array-in-the-given-order/) | Easy |
+| [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -744,6 +745,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
@@ -819,6 +821,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+| [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
@@ -1558,6 +1561,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0877-stone-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
+| [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 ## Shortest Path
@@ -1585,4 +1589,12 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
