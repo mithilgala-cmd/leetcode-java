@@ -526,6 +526,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3689-maximum-total-subarray-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
+| [3731-find-missing-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -601,6 +602,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3536-maximum-product-of-two-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## String Matching
@@ -687,6 +689,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3668-restore-finishing-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
+| [3731-find-missing-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
