@@ -1064,6 +1064,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0225-implement-stack-using-queues](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1865-finding-pairs-with-a-certain-sum/) | Medium |
@@ -1345,6 +1346,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0506-relative-ranks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0506-relative-ranks/) | Easy |
+| [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
 | [1094-car-pooling](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1094-car-pooling/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
@@ -1631,4 +1633,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
 <!---LeetCode Topics End-->
