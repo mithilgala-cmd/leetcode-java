@@ -763,6 +763,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1463-cherry-pickup-ii/) | Hard |
+| [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
@@ -842,6 +843,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
+| [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -1596,6 +1598,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 ## Shortest Path
@@ -1628,13 +1631,23 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
