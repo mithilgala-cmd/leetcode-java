@@ -913,6 +913,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3669-balanced-k-factor-decomposition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3669-balanced-k-factor-decomposition/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -1444,6 +1445,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3669-balanced-k-factor-decomposition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3669-balanced-k-factor-decomposition/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1528,6 +1530,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3669-balanced-k-factor-decomposition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3669-balanced-k-factor-decomposition/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
