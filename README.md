@@ -185,6 +185,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
+| [2999-count-the-number-of-powerful-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3019-number-of-changing-keys/) | Easy |
@@ -779,6 +780,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
+| [2999-count-the-number-of-powerful-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -885,6 +887,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
+| [2999-count-the-number-of-powerful-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3099-harshad-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
