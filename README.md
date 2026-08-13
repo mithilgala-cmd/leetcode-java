@@ -166,6 +166,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
@@ -452,6 +453,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -1541,6 +1543,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -1656,6 +1659,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
