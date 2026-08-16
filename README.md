@@ -1271,6 +1271,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
