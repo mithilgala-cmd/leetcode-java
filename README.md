@@ -525,6 +525,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -708,6 +709,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3146-permutation-difference-between-two-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
