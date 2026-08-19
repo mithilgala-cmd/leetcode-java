@@ -1002,6 +1002,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2286-booking-concert-tickets-in-groups](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2286-booking-concert-tickets-in-groups/) | Hard |
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -1101,6 +1102,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1865-finding-pairs-with-a-certain-sum/) | Medium |
+| [2286-booking-concert-tickets-in-groups](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2286-booking-concert-tickets-in-groups/) | Hard |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -1562,12 +1564,14 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
+| [2286-booking-concert-tickets-in-groups](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2286-booking-concert-tickets-in-groups/) | Hard |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2286-booking-concert-tickets-in-groups](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2286-booking-concert-tickets-in-groups/) | Hard |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
