@@ -507,6 +507,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3131-find-the-integer-added-to-array-i/) | Easy |
@@ -1148,6 +1149,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2810-faulty-keyboard](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2810-faulty-keyboard/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3175-find-the-first-player-to-win-k-games-in-a-row/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
