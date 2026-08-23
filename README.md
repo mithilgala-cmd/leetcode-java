@@ -154,6 +154,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1927-sum-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -244,6 +245,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -880,6 +882,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1837-sum-of-digits-in-base-k/) | Easy |
 | [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
+| [1927-sum-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2028-find-missing-observations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2028-find-missing-observations/) | Medium |
@@ -1660,6 +1663,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
