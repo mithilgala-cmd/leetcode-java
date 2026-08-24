@@ -413,6 +413,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
+| [1535-find-the-winner-of-an-array-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
@@ -1140,6 +1141,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1260-shift-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [1535-find-the-winner-of-an-array-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
