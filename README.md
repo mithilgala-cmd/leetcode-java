@@ -440,6 +440,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
@@ -1045,6 +1046,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
@@ -1086,6 +1088,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1856-maximum-subarray-min-product](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -1193,6 +1196,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+| [1856-maximum-subarray-min-product](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -1735,4 +1739,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1952-three-divisors/) | Easy |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1856-maximum-subarray-min-product/) | Medium |
 <!---LeetCode Topics End-->
