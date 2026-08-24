@@ -441,6 +441,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1865-finding-pairs-with-a-certain-sum/) | Medium |
+| [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -797,6 +798,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
@@ -882,6 +884,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1837-sum-of-digits-in-base-k/) | Easy |
 | [1840-maximum-building-height](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [1952-three-divisors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -1043,6 +1046,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
@@ -1663,6 +1667,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
@@ -1698,6 +1703,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -1705,6 +1711,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
