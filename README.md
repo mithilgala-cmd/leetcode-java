@@ -185,6 +185,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2810-faulty-keyboard](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2810-faulty-keyboard/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
 | [2999-count-the-number-of-powerful-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
@@ -984,6 +985,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
