@@ -512,6 +512,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
@@ -632,6 +633,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1455,6 +1457,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
