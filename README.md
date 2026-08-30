@@ -253,6 +253,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -461,6 +462,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2070-most-beautiful-item-for-each-query](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
