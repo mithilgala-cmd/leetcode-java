@@ -554,6 +554,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3576-transform-array-to-all-equal-elements/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3620-network-recovery-pathways/) | Hard |
@@ -737,6 +738,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3668-restore-finishing-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -1396,6 +1398,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1491,6 +1494,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -1567,6 +1571,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Memoization
