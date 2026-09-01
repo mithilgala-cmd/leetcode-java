@@ -575,6 +575,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
+| [3847-find-the-score-difference-in-a-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
@@ -1200,6 +1201,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3614-process-string-with-special-operations-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
+| [3847-find-the-score-difference-in-a-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
