@@ -580,6 +580,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3847-find-the-score-difference-in-a-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -976,6 +977,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3828-final-element-after-subarray-deletions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3828-final-element-after-subarray-deletions/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
