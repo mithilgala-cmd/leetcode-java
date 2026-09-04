@@ -582,6 +582,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3875-construct-uniform-parity-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1086,6 +1087,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
