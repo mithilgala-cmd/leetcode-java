@@ -101,6 +101,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0065-valid-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
 | [0097-interleaving-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
@@ -800,6 +801,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0064-minimum-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
