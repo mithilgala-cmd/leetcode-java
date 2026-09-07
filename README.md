@@ -125,6 +125,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0720-longest-word-in-dictionary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -814,6 +815,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0741-cherry-pickup](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0741-cherry-pickup/) | Hard |
 | [0877-stone-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1025-divisor-game/) | Easy |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
