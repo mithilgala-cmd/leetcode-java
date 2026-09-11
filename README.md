@@ -552,6 +552,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -748,6 +749,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -1153,6 +1155,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0394-decode-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1681,6 +1684,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
