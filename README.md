@@ -372,6 +372,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0766-toeplitz-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0766-toeplitz-matrix/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0885-spiral-matrix-iii/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
@@ -1517,6 +1518,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0741-cherry-pickup](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0741-cherry-pickup/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0835-image-overlap/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0885-spiral-matrix-iii/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
