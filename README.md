@@ -893,6 +893,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0679-24-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0679-24-game/) | Hard |
 | [0810-chalkboard-xor-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0810-chalkboard-xor-game/) | Hard |
+| [0836-rectangle-overlap](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0952-largest-component-size-by-common-factor/) | Hard |
@@ -1673,6 +1674,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0223-rectangle-area/) | Medium |
+| [0836-rectangle-overlap](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1266-minimum-time-visiting-all-points/) | Easy |
