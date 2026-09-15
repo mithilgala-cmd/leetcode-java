@@ -66,6 +66,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2540-minimum-common-value](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2592-maximize-greatness-of-an-array/) | Medium |
@@ -178,6 +179,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2315-count-asterisks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2315-count-asterisks/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
@@ -263,6 +265,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2591-distribute-money-to-maximum-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2591-distribute-money-to-maximum-children/) | Easy |
@@ -841,6 +844,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
