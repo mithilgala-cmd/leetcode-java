@@ -839,6 +839,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
@@ -925,6 +926,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
@@ -1094,6 +1096,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1480-running-sum-of-1d-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -1630,6 +1633,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
