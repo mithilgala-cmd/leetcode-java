@@ -927,6 +927,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1447-simplified-fractions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1447-simplified-fractions/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
@@ -1695,6 +1696,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1266-minimum-time-visiting-all-points/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
