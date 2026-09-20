@@ -98,6 +98,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0038-count-and-say](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0067-add-binary/) | Easy |
@@ -317,6 +318,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0046-permutations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
@@ -605,6 +607,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0016-3sum-closest](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
@@ -693,6 +696,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
