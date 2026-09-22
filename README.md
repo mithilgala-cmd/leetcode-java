@@ -568,6 +568,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
@@ -1002,6 +1003,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -1692,6 +1694,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2286-booking-concert-tickets-in-groups](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2286-booking-concert-tickets-in-groups/) | Hard |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
