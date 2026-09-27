@@ -241,6 +241,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0135-candy](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [0502-ipo](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0502-ipo/) | Hard |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
@@ -363,6 +364,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0485-max-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
+| [0502-ipo](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0506-relative-ranks/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
@@ -625,6 +627,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
+| [0502-ipo](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
@@ -1507,6 +1510,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0023-merge-k-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0502-ipo](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0506-relative-ranks/) | Easy |
 | [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
 | [1094-car-pooling](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1094-car-pooling/) | Medium |
