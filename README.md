@@ -497,6 +497,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2293-min-max-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2293-min-max-game/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2365-task-scheduler-ii/) | Medium |
@@ -870,6 +871,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2463-minimum-total-distance-traveled/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
@@ -1579,6 +1581,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1879,4 +1882,5 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
