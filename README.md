@@ -95,6 +95,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
@@ -829,6 +830,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0005-longest-palindromic-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0045-jump-game-ii/) | Medium |
@@ -1160,6 +1162,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -1884,6 +1887,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
