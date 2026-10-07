@@ -116,6 +116,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0299-bulls-and-cows/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0383-ransom-note/) | Easy |
@@ -1481,6 +1482,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0127-word-ladder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -1614,6 +1616,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0089-gray-code](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0679-24-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0679-24-game/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1096-brace-expansion-ii/) | Hard |
