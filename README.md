@@ -395,6 +395,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0885-spiral-matrix-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0885-spiral-matrix-iii/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 | [0948-bag-of-tokens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [0954-array-of-doubled-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
@@ -644,6 +645,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0720-longest-word-in-dictionary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 | [0948-bag-of-tokens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
@@ -1442,6 +1444,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0387-first-unique-character-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1051-height-checker/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -1518,6 +1521,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/) | Medium |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 | [1763-longest-nice-substring](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1763-longest-nice-substring/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -1530,6 +1534,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0502-ipo](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0506-relative-ranks/) | Easy |
 | [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 | [1094-car-pooling](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1094-car-pooling/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
@@ -1546,6 +1551,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1776,6 +1782,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Brainteaser
@@ -1904,4 +1911,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
