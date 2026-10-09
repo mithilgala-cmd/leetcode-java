@@ -151,6 +151,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1592-rearrange-spaces-between-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1592-rearrange-spaces-between-words/) | Easy |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
@@ -263,6 +264,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1703-minimum-adjacent-swaps-for-k-consecutive-ones/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -1195,6 +1197,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -1909,6 +1912,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1021-remove-outermost-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Radix Sort
