@@ -292,6 +292,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2938-separate-black-and-white-balls/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -545,6 +546,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
@@ -782,6 +784,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2763-sum-of-imbalance-numbers-of-all-subarrays/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1685,6 +1688,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2749-minimum-operations-to-make-the-integer-zero/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
