@@ -307,6 +307,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3689-maximum-total-subarray-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -611,6 +612,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -703,6 +705,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3536-maximum-product-of-two-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
