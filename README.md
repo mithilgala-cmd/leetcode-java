@@ -599,6 +599,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3576-transform-array-to-all-equal-elements/) | Medium |
@@ -706,6 +707,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -811,6 +813,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3668-restore-finishing-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
