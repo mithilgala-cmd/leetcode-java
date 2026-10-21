@@ -237,6 +237,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3889-mirror-frequency-distance/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
