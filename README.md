@@ -407,6 +407,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0948-bag-of-tokens](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0948-bag-of-tokens/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [0954-array-of-doubled-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
@@ -765,6 +766,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0771-jewels-and-stones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0771-jewels-and-stones/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0952-largest-component-size-by-common-factor/) | Hard |
 | [0954-array-of-doubled-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0997-find-the-town-judge/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -1955,4 +1957,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0912-sort-an-array/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
