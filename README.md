@@ -190,6 +190,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2315-count-asterisks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2315-count-asterisks/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2409-count-days-spent-together](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
@@ -1015,6 +1016,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2235-add-two-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2235-add-two-integers/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2469-convert-the-temperature/) | Easy |
