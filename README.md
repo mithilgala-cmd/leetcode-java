@@ -425,6 +425,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1260-shift-2d-grid/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
@@ -1421,6 +1422,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0606-construct-string-from-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0617-merge-two-binary-trees/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -1535,6 +1537,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0797-all-paths-from-source-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1345-jump-game-iv/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -1613,6 +1616,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0200-number-of-islands/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0952-largest-component-size-by-common-factor/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1639,6 +1643,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0892-surface-area-of-3d-shapes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0892-surface-area-of-3d-shapes/) | Easy |
 | [0994-rotting-oranges](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0994-rotting-oranges/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1030-matrix-cells-in-distance-order/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1301-number-of-paths-with-max-score/) | Hard |
