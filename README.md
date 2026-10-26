@@ -42,6 +42,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
+| [0541-reverse-string-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0541-reverse-string-ii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
@@ -123,6 +124,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0387-first-unique-character-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0541-reverse-string-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0541-reverse-string-ii/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0606-construct-string-from-binary-tree/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
