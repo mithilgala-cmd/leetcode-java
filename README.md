@@ -26,6 +26,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0031-next-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0061-rotate-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
@@ -348,6 +349,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0063-unique-paths-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0066-plus-one/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0090-subsets-ii/) | Medium |
