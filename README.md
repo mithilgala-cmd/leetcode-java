@@ -156,6 +156,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1544-make-the-string-great](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1544-make-the-string-great/) | Easy |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1592-rearrange-spaces-between-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1592-rearrange-spaces-between-words/) | Easy |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
@@ -1244,6 +1245,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1544-make-the-string-great](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1544-make-the-string-great/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
