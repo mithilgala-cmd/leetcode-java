@@ -628,6 +628,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3637-trionic-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3637-trionic-array-i/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3668-restore-finishing-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3668-restore-finishing-order/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -942,6 +943,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3620-network-recovery-pathways/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -1680,6 +1682,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
