@@ -385,6 +385,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0410-split-array-largest-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0463-island-perimeter/) | Easy |
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
 | [0477-total-hamming-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0477-total-hamming-distance/) | Medium |
@@ -672,6 +673,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0349-intersection-of-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
 | [0502-ipo](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0506-relative-ranks/) | Easy |
@@ -981,6 +983,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0390-elimination-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0390-elimination-game/) | Medium |
 | [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0477-total-hamming-distance/) | Medium |
 | [0483-smallest-good-base](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0483-smallest-good-base/) | Hard |
 | [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
