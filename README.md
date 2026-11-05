@@ -54,6 +54,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1332-remove-palindromic-subsequences/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
@@ -452,6 +453,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1345-jump-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1406-stone-game-iii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
@@ -699,6 +701,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1288-remove-covered-intervals](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1340-jump-game-v/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -1175,6 +1178,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
