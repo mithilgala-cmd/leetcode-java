@@ -183,6 +183,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
@@ -513,6 +514,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2028-find-missing-observations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2028-find-missing-observations/) | Medium |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2070-most-beautiful-item-for-each-query](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
@@ -812,6 +814,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -1537,6 +1540,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2029-stone-game-ix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
