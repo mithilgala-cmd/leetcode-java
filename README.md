@@ -558,6 +558,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2747-count-zero-request-servers/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2763-sum-of-imbalance-numbers-of-all-subarrays/) | Hard |
@@ -727,6 +728,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2706-buy-two-chocolates](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2706-buy-two-chocolates/) | Easy |
 | [2731-movement-of-robots](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2731-movement-of-robots/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2733-neither-minimum-nor-maximum/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -823,6 +825,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2716-minimize-string-length](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2716-minimize-string-length/) | Easy |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2732-find-a-good-subset-of-the-matrix/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2747-count-zero-request-servers/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2763-sum-of-imbalance-numbers-of-all-subarrays/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2784-check-if-array-is-good/) | Easy |
@@ -1144,6 +1147,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2516-take-k-of-each-character-from-left-and-right/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
