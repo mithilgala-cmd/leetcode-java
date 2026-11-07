@@ -198,6 +198,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2315-count-asterisks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2315-count-asterisks/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2409-count-days-spent-together](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2496-maximum-value-of-a-string-in-an-array/) | Easy |
@@ -539,6 +540,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2365-task-scheduler-ii/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2460-apply-operations-to-an-array/) | Easy |
@@ -1518,6 +1520,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0720-longest-word-in-dictionary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [1023-camelcase-matching](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1023-camelcase-matching/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
@@ -1544,6 +1547,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2748-number-of-beautiful-pairs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2748-number-of-beautiful-pairs/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
