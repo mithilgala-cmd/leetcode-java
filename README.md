@@ -505,6 +505,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1856-maximum-subarray-min-product](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1856-maximum-subarray-min-product/) | Medium |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1929-concatenation-of-array/) | Easy |
 | [1947-maximum-compatibility-score-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1947-maximum-compatibility-score-sum/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -1631,6 +1632,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1882-process-tasks-using-servers/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
