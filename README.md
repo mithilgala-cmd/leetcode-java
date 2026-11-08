@@ -265,6 +265,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0561-array-partition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -405,6 +406,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0679-24-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0679-24-game/) | Hard |
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0697-degree-of-an-array/) | Easy |
@@ -692,6 +694,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0594-longest-harmonious-subsequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0720-longest-word-in-dictionary/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0905-sort-array-by-parity/) | Easy |
@@ -922,6 +925,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0396-rotate-function](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0741-cherry-pickup](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0741-cherry-pickup/) | Hard |
 | [0877-stone-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0877-stone-game/) | Medium |
@@ -2055,4 +2059,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
