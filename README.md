@@ -45,6 +45,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0475-heaters](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0475-heaters/) | Medium |
 | [0541-reverse-string-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0541-reverse-string-ii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
+| [0647-palindromic-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0844-backspace-string-compare/) | Easy |
@@ -128,6 +129,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0424-longest-repeating-character-replacement](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0541-reverse-string-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0541-reverse-string-ii/) | Easy |
 | [0606-construct-string-from-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0606-construct-string-from-binary-tree/) | Medium |
+| [0647-palindromic-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -926,6 +928,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0410-split-array-largest-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
+| [0647-palindromic-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0741-cherry-pickup](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0741-cherry-pickup/) | Hard |
 | [0877-stone-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0877-stone-game/) | Medium |
