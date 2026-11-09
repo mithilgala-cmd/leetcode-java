@@ -488,6 +488,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1598-crawler-log-folder](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1598-crawler-log-folder/) | Easy |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
@@ -1348,6 +1349,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1535-find-the-winner-of-an-array-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1646-get-maximum-in-generated-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1646-get-maximum-in-generated-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -1648,6 +1650,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
 | [1405-longest-happy-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1405-longest-happy-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1882-process-tasks-using-servers/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -2005,6 +2008,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
