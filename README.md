@@ -650,6 +650,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3674-minimum-operations-to-equalize-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -972,6 +973,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
