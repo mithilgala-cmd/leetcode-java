@@ -601,6 +601,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3151-special-array-i/) | Easy |
