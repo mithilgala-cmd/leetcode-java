@@ -620,6 +620,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -1177,6 +1178,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -1305,6 +1307,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2296-design-a-text-editor/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -1415,6 +1418,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1856-maximum-subarray-min-product/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -1423,6 +1427,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0232-implement-queue-using-stacks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1883,6 +1888,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -2078,4 +2084,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
