@@ -618,6 +618,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -1178,6 +1179,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
@@ -1259,6 +1261,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
