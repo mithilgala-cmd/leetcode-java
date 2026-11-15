@@ -476,6 +476,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1534-count-good-triplets/) | Easy |
 | [1535-find-the-winner-of-an-array-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1535-find-the-winner-of-an-array-game/) | Medium |
@@ -953,6 +954,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1537-get-the-maximum-score/) | Hard |
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1052,6 +1054,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1447-simplified-fractions](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1447-simplified-fractions/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1510-stone-game-iv](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -1245,6 +1248,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
