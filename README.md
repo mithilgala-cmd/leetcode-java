@@ -414,6 +414,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0682-baseball-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0697-degree-of-an-array/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0720-longest-word-in-dictionary/) | Medium |
+| [0731-my-calendar-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0731-my-calendar-ii/) | Medium |
 | [0741-cherry-pickup](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0741-cherry-pickup/) | Hard |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0766-toeplitz-matrix/) | Easy |
@@ -1208,6 +1209,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0483-smallest-good-base](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0483-smallest-good-base/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
 | [0611-valid-triangle-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
+| [0731-my-calendar-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0731-my-calendar-ii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1268-search-suggestions-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1268-search-suggestions-system/) | Medium |
@@ -1243,6 +1245,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0209-minimum-size-subarray-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/0410-split-array-largest-sum/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0528-random-pick-with-weight/) | Medium |
+| [0731-my-calendar-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0731-my-calendar-ii/) | Medium |
 | [1094-car-pooling](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1094-car-pooling/) | Medium |
 | [1140-stone-game-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1140-stone-game-ii/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
@@ -1342,6 +1345,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [0225-implement-stack-using-queues](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0731-my-calendar-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0731-my-calendar-ii/) | Medium |
 | [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1603-design-parking-system](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/1603-design-parking-system/) | Easy |
@@ -1890,6 +1894,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0731-my-calendar-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0731-my-calendar-ii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2286-booking-concert-tickets-in-groups](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2286-booking-concert-tickets-in-groups/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -2028,6 +2033,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0731-my-calendar-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0731-my-calendar-ii/) | Medium |
 | [0855-exam-room](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/0855-exam-room/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
