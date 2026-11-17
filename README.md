@@ -76,6 +76,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2592-maximize-greatness-of-an-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2592-maximize-greatness-of-an-array/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2938-separate-black-and-white-balls/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -215,6 +216,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2938-separate-black-and-white-balls](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2938-separate-black-and-white-balls/) | Medium |
 | [2942-find-words-containing-character](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
 | [2999-count-the-number-of-powerful-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
@@ -971,6 +973,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2707-extra-characters-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2707-extra-characters-in-a-string/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2745-construct-the-longest-new-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2999-count-the-number-of-powerful-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
