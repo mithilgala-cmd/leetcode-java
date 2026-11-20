@@ -321,6 +321,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3576-transform-array-to-all-equal-elements/) | Medium |
@@ -634,6 +635,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -875,6 +877,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
