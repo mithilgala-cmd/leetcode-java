@@ -602,6 +602,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3038-maximum-number-of-operations-with-the-same-score-i/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
@@ -761,6 +762,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2974-minimum-number-game](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3169-count-days-without-meetings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3169-count-days-without-meetings/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3467-transform-array-by-parity/) | Easy |
@@ -980,6 +982,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2915-length-of-the-longest-subsequence-that-sums-to-target/) | Medium |
 | [2999-count-the-number-of-powerful-integers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
