@@ -236,6 +236,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3227-vowels-game-in-a-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3227-vowels-game-in-a-string/) | Medium |
 | [3248-snake-in-matrix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3248-snake-in-matrix/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3340-check-balanced-string](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -625,6 +626,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
@@ -875,6 +877,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3146-permutation-difference-between-two-strings](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3224-minimum-array-changes-to-make-differences-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3224-minimum-array-changes-to-make-differences-equal/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
@@ -1486,6 +1489,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2236-root-equals-sum-of-children](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2331-evaluate-boolean-binary-tree/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -1525,6 +1529,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
