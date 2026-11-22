@@ -190,6 +190,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/2182-construct-string-with-repeat-limit/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2185-counting-words-with-a-given-prefix/) | Easy |
