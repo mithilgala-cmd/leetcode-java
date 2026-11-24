@@ -632,6 +632,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3354-make-array-elements-equal-to-zero](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3379-transformed-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
@@ -1133,6 +1134,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3345-smallest-divisible-digit-product-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3492-maximum-containers-on-a-ship/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -1201,6 +1203,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Binary Search
@@ -1896,6 +1899,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3312-sorted-gcd-pair-queries](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3669-balanced-k-factor-decomposition](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3669-balanced-k-factor-decomposition/) | Medium |
@@ -1949,6 +1953,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [2928-distribute-candies-among-children-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/2928-distribute-candies-among-children-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
