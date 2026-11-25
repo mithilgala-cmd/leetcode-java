@@ -691,6 +691,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3898-find-the-degree-of-each-vertex](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -901,6 +902,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3889-mirror-frequency-distance/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1259,6 +1261,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3620-network-recovery-pathways](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1664,6 +1667,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/0572-subtree-of-another-tree/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1967,6 +1971,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3934-smallest-unique-subarray/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -2125,4 +2130,8 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
