@@ -335,6 +335,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -693,6 +694,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3904-smallest-stable-index-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1007,6 +1009,7 @@ Consistent LeetCode solutions in Java with optimized approaches and DSA pattern 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mithilgala-cmd/leetcode-java/tree/main/Java/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
